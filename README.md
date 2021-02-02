@@ -5,10 +5,6 @@
 ## Abstract
 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/MCtellI5bu4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 Cant see embedded video? Here is the link!
 https://youtu.be/MCtellI5bu4
 

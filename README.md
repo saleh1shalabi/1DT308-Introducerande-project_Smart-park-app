@@ -5,6 +5,9 @@
 ## Abstract
 
 
+Cant see embedded video? Here is the link!
+https://youtu.be/MCtellI5bu4
+
 
 This project aims to provide an better alternate method of keeping track of parking spaces in a parking lot. The current setup is stationary and prone to faults, thus the soulution should be a reliable and portable one. 
 
